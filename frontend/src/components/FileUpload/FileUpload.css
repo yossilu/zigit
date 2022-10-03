@@ -1,0 +1,12 @@
+.file-card {
+    margin: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px dashed #5c87b6;
+    background-color: #0f1b27;
+    min-width: 60px;
+    min-height: 60px;
+}
+

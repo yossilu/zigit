@@ -9,8 +9,8 @@ and then ->
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-MySql Databases are found in backend/config/dbconn. (users/projects/comments)
-auth is based on JWT.
+MySql Databases are found in backend/config/dbconn. (users/projects/comments)<br>
+auth is based on JWT.<br>
 added guards and role management.(could be done smarter and better).
 
 ## Learn More
